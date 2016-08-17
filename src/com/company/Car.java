@@ -16,6 +16,7 @@ public class Car {
     }
     //asdasdasd
     //asdasdasdasdasd
+    //asfasasfasf
     public float GetWeight() {
         //Implement logic here to get the total weight of//the car + all the doors and wheelsreturn;}}
         float sum = 0;
