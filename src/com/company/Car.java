@@ -14,7 +14,8 @@ public class Car {
         this.wheels = wheels;
         this.doors = doors;
     }
-
+    //asdasdasd
+    //asdasdasdasdasd
     public float GetWeight() {
         //Implement logic here to get the total weight of//the car + all the doors and wheelsreturn;}}
         float sum = 0;
